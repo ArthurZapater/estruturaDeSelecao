@@ -24,7 +24,7 @@ public class Exercicio03 {
 
         //Saída de dados
         System.out.println("Total com desconto R$" + df.format(totalComDesconto));
-        System.out.println("Valor economizado R$" + df.format(valorEconomizado));
+        System.out.println("Valor economizado em R$" + df.format(valorEconomizado));
 
 
     }
